@@ -156,6 +156,6 @@ Enjoy!
  
  ##
  
-  ![Snake animation](https://github.com/Matheus2212/Matheus2212/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/AjayShanker/AjayShanker/main/github-contribution-grid-snake.svg)
  
 </div>

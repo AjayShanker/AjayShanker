@@ -25,10 +25,10 @@ Enjoy!
 
 
 <!-- most used start -->
- # Technologies and Tools 🚀
+
  
 <div align="center"> 
-
+ # Technologies and Tools 🚀
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
 
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">

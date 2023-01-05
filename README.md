@@ -21,10 +21,12 @@ Enjoy!
 </div>
 <!-- most used end -->
 
-##
+ ##
+
+
 <!-- most used start -->
 <div align="center"> 
- ## Technologies and Tools 🚀
+ # Technologies and Tools 🚀
  <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
 
 <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
@@ -90,7 +92,8 @@ Enjoy!
 <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 </div>
 <!-- most used end -->
-##
+ ##
+
 
 <!-- icons start -->
 <div align="center">

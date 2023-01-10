@@ -2,13 +2,13 @@
 
 # Hello! I'm Ajay Shanker :-)
 
-I have advanced proficiency in MEAN Stack (MongoDB, Express, AngularJS, NodeJS, VueJS).Also, creating Restful API.
+Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
+
+Hands on experience in using Laravel/CakePHP/Codeigniter Framework to develop a web application.
 
 I'm a FullStack developer, driven by curiosity and the need to understand how the proccess works. 
 
 There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
-
-Enjoy!
 
  ##
 
@@ -31,34 +31,33 @@ Enjoy!
 <div align="center"> 
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Library-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Environment-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Netlify-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Heroku-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeIgniter&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a">
-    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Three.js-informational?style=flat&logo=three.js&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Module-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a">
+    <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/WebGL-Three.js-informational?style=flat&logo=three.js&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 </div>
 

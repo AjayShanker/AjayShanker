@@ -1,6 +1,6 @@
 
 
-# 👋 Hello! I'm Ajay Shanker :-) <img src="https://komarev.com/ghpvc/?username=AjayShanker&color=1962dd"></img>
+# 👋 Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=1962dd" alt="FullStack developer"></img>
 
 Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
 

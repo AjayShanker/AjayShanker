@@ -26,7 +26,7 @@ There's plenty stuff here on my repos which shows the challenges I already had a
 
 <!-- most used start -->
 
-  # Technologies and Tools 🚀
+## 🚀 Technologies and Tools 
   
 <div align="center"> 
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">

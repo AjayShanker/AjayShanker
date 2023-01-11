@@ -1,6 +1,6 @@
 
 
-# Hello! I'm Ajay Shanker :-)
+# 👋 Hello! I'm Ajay Shanker :-)
 
 Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
 

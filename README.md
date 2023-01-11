@@ -62,8 +62,7 @@ There's plenty stuff here on my repos which shows the challenges I already had a
 </div>
 
 
- ##
-
+## 🛠️ Skills
 
 <!-- icons start -->
 <div align="center">

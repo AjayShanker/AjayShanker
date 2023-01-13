@@ -176,7 +176,7 @@ There's plenty stuff here on my repos which shows the challenges I already had a
    
    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="AjayShanker"/>
    
-   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayShanker&show_icons=true&locale=en" alt="AjayShanker" />
+  
       
  </a>
 </div>

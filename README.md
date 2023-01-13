@@ -18,7 +18,8 @@ There's plenty stuff here on my repos which shows the challenges I already had a
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&langs_count=8&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AjayShanker)](https://github.com/AjayShanker/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=AjayShanker&layout=compact&langs_count=8&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
+ 
  
  
 </div>

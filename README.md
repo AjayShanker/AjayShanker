@@ -16,13 +16,7 @@ There's plenty stuff here on my repos which shows the challenges I already had a
 <!-- most used start -->
 <div align="center"> 
  
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&langs_count=8&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
- 
-
- <a  href="https://github.com/AjayShanker/github-readme-stats">
-   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AjayShanker&repo=github-readme-stats" />
- </a>
- 
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&langs_count=8&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
  
  
 </div>

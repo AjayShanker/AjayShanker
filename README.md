@@ -18,6 +18,8 @@ There's plenty stuff here on my repos which shows the challenges I already had a
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2212&layout=compact&langs_count=7&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayshanker&langs_count=8&show_icons=true&theme=transparent)](https://github.com/ajayshanker/github-readme-stats)
+ 
 </div>
 <!-- most used end -->
 

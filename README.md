@@ -16,7 +16,7 @@ There's plenty stuff here on my repos which shows the challenges I already had a
 <!-- most used start -->
 <div align="center"> 
  
- <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=react&langs_count=8&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
+ <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
  
  
 </div>

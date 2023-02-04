@@ -2,7 +2,7 @@
 
 # <img align="left" alt="Hi!" height="40" width="50" src="hand.gif"> Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=dd3219" alt="FullStack developer"></img>
 
-<div align="center"> 
+
   Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
 
   Hands on experience in using Laravel/CakePHP/Codeigniter Framework to develop a web application.
@@ -11,7 +11,6 @@
 
   There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
   
-</div> 
 
 
 
@@ -19,16 +18,14 @@
 
 
 <!-- most used start -->
-<div align="center"> 
+<div style="display: flex; flex-direction: row;"> 
  
- <img height="180em" align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
+<img height="180em" align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
   
-   <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" width="200" align="right" src="ajay_shanker.gif"></a> 
- 
- 
+<a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" width="200" align="right" src="ajay_shanker.gif"></a> 
+  
 </div>
 <!-- most used end -->
- ##
  ##
 
 

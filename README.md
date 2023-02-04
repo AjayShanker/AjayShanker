@@ -30,7 +30,7 @@
 <BR /><BR />
  ##
 
-
+<div style="height: auto; width: 100%; display: flex; flex-direction: row;"> 
 <!-- most used start -->
 
 ## 🚀 Technologies and Tools 
@@ -67,7 +67,7 @@
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/WebGL-Three.js-informational?style=flat&logo=three.js&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 </div>
-
+</div>
 
 ## 🛠️ Skills
 

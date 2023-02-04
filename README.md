@@ -18,7 +18,7 @@
 
 
 <!-- most used start -->
-<div style="height: auto; width: 100%; display: flex; flex-direction: row;"> 
+<div style="height: auto; width: 100%; display: block;"> 
  
 <img height="180em" align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
   
@@ -30,7 +30,7 @@
 <BR /><BR />
  ##
 
-<div style="height: auto; width: 100%; display: flex; flex-direction: row;"> 
+<div style="height: auto; width: 100%; display: block;"> 
 <!-- most used start -->
 
 ## 🚀 Technologies and Tools 

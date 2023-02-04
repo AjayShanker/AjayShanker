@@ -13,7 +13,7 @@ I'm a FullStack developer, driven by curiosity and the need to understand how th
 There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
  </div>
 
- <div align="right" width="48%"><img align="center" alt="Knowledge is power" height="600" width="98%" src="ajay_shanker.gif"></div>
+ <div align="right" width="48%"><img align="center" alt="Knowledge is power" height="180em" src="ajay_shanker.gif"></div>
 </div> 
 
 

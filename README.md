@@ -18,11 +18,11 @@
 
 
 <!-- most used start -->
-<div style="display: flex; flex-direction: row;"> 
+<div class='container'> 
  
-<img height="180em" align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
+<img height="180em" align="left" style="height: auto; width: 55%;"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
   
-<a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" width="200" align="right" src="ajay_shanker.gif"></a> 
+<a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" style="height: auto; width: 40%;" align="right" src="ajay_shanker.gif"></a> 
   
 </div>
 <!-- most used end -->

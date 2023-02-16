@@ -183,7 +183,7 @@
 <!-- stats start -->
 
 
-  <div style="height: auto; width: 100%; display: block;" align="center">  <img src="https://github-profile-trophy.vercel.app/api?username=AjayShanker&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="AjayShanker" /><br /><hr /> </div>
+  <div style="height: auto; width: 99%; display: block;" align="center">  <img src="https://github-profile-trophy.vercel.app/api?username=AjayShanker&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="AjayShanker" /><br /> </div>
   
 <div>
   <a href="https://github.com/AjayShanker" align="center">

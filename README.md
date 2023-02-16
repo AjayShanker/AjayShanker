@@ -181,6 +181,10 @@
 ## 🔥 GitHub Stats
 
 <!-- stats start -->
+
+
+  <div style="height: auto; width: 100%; display: block;" align="center">  <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img src="https://github-profile-trophy.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="AjayShanker" /></a> </div>
+  
 <div>
   <a href="https://github.com/AjayShanker" align="center">
    
@@ -204,8 +208,6 @@
   <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <!-- social end -->
-  
-  <div style="height: auto; width: 100%; display: block;" align="center">  <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=AjayShanker" alt="AjayShanker" /></a> </div>
  
  ##
  

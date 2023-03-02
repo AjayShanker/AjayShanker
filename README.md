@@ -94,6 +94,10 @@
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   &nbsp;&nbsp;
+   <img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   &nbsp;&nbsp;
+  <img align="center" alt="AjayShanker-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -151,8 +155,6 @@
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="AjayShanker-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-symfony" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-threejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
@@ -160,8 +162,6 @@
   <img align="center" alt="AjayShanker-typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-unrealengine" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-webpack" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
   &nbsp;&nbsp;  

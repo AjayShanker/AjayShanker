@@ -90,8 +90,6 @@
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="AjayShanker-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   &nbsp;&nbsp;
    <img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">

@@ -163,9 +163,10 @@
   &nbsp;&nbsp;
   <img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="AjayShanker-webpack" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"> &nbsp;&nbsp;  
-  <img align="center" alt="AjayShanker-yii" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
-  
+  <img align="center" alt="AjayShanker-webpack" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+  &nbsp;&nbsp;  
+ <img align="center" alt="AjayShanker-yii" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
+  <br />
 </div>
 
 <!-- icons end -->

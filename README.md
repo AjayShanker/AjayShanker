@@ -111,9 +111,9 @@
  ##
  
  <div align="center">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AjayShanker&show-avatar=false" style="height: auto; width: 49%; display: block;" />
-
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AjayShanker&skills=python,rust,shell,lua,html,javascript" style="height: auto; width: 48%; display: block;" />
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="seniorphpprogrammer" data-version="v1" style="height: auto; width: 99%; display: block;"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/seniorphpprogrammer?trk=profile-badge">Ajay Shanker</a></div>
+       
  </div>
 
 <!-- stats end -->

@@ -108,6 +108,14 @@
  </a>
 </div>
 
+ ##
+ 
+ <div align="center">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AjayShanker&show-avatar=false" style="height: auto; width: 49%; display: block;" />
+
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AjayShanker&skills=python,rust,shell,lua,html,javascript" style="height: auto; width: 48%; display: block;" />
+ </div>
+
 <!-- stats end -->
   
   ##

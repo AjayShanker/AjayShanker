@@ -3,18 +3,12 @@
 # <img align="left" alt="Hi!" height="40" width="50" src="hand.gif"> Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=dd3219" alt="FullStack developer"></img>
 
 
-  ```Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
-
-  Hands on experience in using Laravel/CakePHP/Codeigniter Framework to develop a web application.
-
-  I'm a FullStack developer, driven by curiosity and the need to understand how the proccess works. 
-
-  There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
-  ```
-
-
-
- ##
+Experience in building MEAN Stack applications using HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components of Restful Web services to interact with UI Interfaces using REST API.
+Hands on experience in using Laravel/CakePHP/Codeigniter Framework to develop a web application.
+I'm a FullStack developer, driven by curiosity and the need to understand how the proccess works. 
+There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
+  
+##
 
 
 <!-- most used start -->
@@ -29,10 +23,6 @@
 </div>
 <!-- most used end -->
 
-<br />
-<p>&nbsp;</p>
-<br />
-<p>&nbsp;</p>
 <br />
 <p>&nbsp;</p>
 

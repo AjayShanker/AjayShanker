@@ -34,7 +34,8 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
 
 
   
-<div align="center"> 
+<div style="height: auto; width: 100%; display: block;"> 
+  <br />
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">

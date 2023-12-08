@@ -6,30 +6,26 @@
 <div style="height: auto; width: 100%; display: block;"> 
 I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. My technical proficiency in PHP, Laravel/CakePHP/Codeigniter Frameworks , JavaScript, VueJs, Angular, AWS, MongoDB, Express, Node.Js, React & React Native.
 <br />
-Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
+
 </div>
-  <br />
-
-
+<br /><br />
 
 <!-- most used start -->
 <div style="height: auto; width: 100%; display: block;"> 
-  
-  
 <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" width="280em" align="left" src="ajay_shanker.gif"></a> 
  
 <img height="180em" align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
-  
-  
 </div>
-<br />><br />
-
+<br /><br />
+````
+Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
+````
  ## 🚀 Technologies and Tools 
 <div style="height: auto; width: 100%; display: block;"> 
 
 
 <div style="height: auto; width: 100%; display: block;"> 
-<br />><br />
+<br /><br />
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">

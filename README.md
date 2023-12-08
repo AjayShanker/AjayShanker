@@ -4,9 +4,9 @@
 
 <br /> 
 <div style="height: auto; width: 100%; display: block;"> 
-I am a passionat and self-taught full stack developer with a keen interest in crafting clean, well-tested MEAN Stack code. 
-<br />
-Lifelong learner dedicated to mastering HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components for Restful interactions through REST API. 
+I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. I have acquired the skill set to build modern-day applications that support industry standards and software design.
+
+Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 <br />
 Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application development. My journey as a FullStack developer is fueled by curiosity, evident in my repos showcasing challenges faced and solutions implemented.I thrive on creating projects from scratch to deepen my understanding of the development process.
 </div>

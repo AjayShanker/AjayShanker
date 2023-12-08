@@ -11,7 +11,7 @@ Lifelong learner dedicated to mastering HTML, XHTML, CSS3, JavaScript, JQuery, A
 Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application development. My journey as a FullStack developer is fueled by curiosity, evident in my repos showcasing challenges faced and solutions implemented.I thrive on creating projects from scratch to deepen my understanding of the development process.
 </div>
   <br />
-##
+
 
 
 <!-- most used start -->
@@ -31,7 +31,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
 <br />
 <!-- most used start -->
 
-## 🚀 Technologies and Tools 
+ 🚀 Technologies and Tools 
   
 <div align="center"> 
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
@@ -67,7 +67,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
 </div>
 </div>
 <br />
-## 🛠️ Skills
+ 🛠️ Skills
 
 <!-- icons start -->
 <div align="center">

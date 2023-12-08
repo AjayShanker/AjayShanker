@@ -24,8 +24,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
   
   
 </div>
-<!-- most used end -->
-
+  <br /><p>&nbsp;</p  <br />
 <br /><p>&nbsp;</p><br />
   ## 🚀 Technologies and Tools 
 <div style="height: auto; width: 100%; display: block;"> 

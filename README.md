@@ -9,22 +9,31 @@ I am a passionat developer with more than 5 years of experience building diverse
 
 </div>
 <br /><br />
+Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 
+<br /><p>&nbsp;</p><br />
 <!-- most used start -->
 <div style="height: auto; width: 100%; display: block;"> 
-<a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img alt="Knowledge is power" height="180em" width="280em" align="left" src="ajay_shanker.gif"></a> 
- 
-<img height="180em" align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/>
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css">
+<a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img height="180em" width="59%" align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css"/></a>
+</picture>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ajay_shanker.gif">
+  <source media="(prefers-color-scheme: light)" srcset="ajay_shanker.gif">
+  <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img height="180em" alt="Knowledge is power" align="right"  src="ajay_shanker.gif"/></a>
+</picture>
+<br /><p>&nbsp;</p><br /><br /><p>&nbsp;</p><br />
 </div>
-<br /><br />
-````
-Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
-````
+<br /><p>&nbsp;</p><br />
+
  ## 🚀 Technologies and Tools 
 <div style="height: auto; width: 100%; display: block;"> 
 
 
-<div style="height: auto; width: 100%; display: block;"> 
+⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code>
 <br /><br />
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
@@ -56,20 +65,19 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Module-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/WebGL-Three.js-informational?style=flat&logo=three.js&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
-</div>
+
 </div>
 <br /><p>&nbsp;</p><br />
 
  ##  🛠️ Skills
 
 <div style="height: auto; width: 100%; display: block;"> 
-<br />
-  
+ 
   <img align="center" alt="AjayShanker-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;<img align="center" alt="AjayShanker-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-jQuery" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Wordpres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Woocommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-VScode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   &nbsp;&nbsp;<img align="center" alt="AjayShanker-cakephp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   &nbsp;&nbsp;<img align="center" alt="AjayShanker-codeigniter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-drupal" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-jquery" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-symfony" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-threejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-unrealengine" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-webpack" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-yii" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
-  <br />
+
 </div>
 
 <br /><p>&nbsp;</p><br />
@@ -99,7 +107,7 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
   ##
  
  <!-- social start -->
-<div align="center">
+<div align="center"><br />
   <a href="https://twitter.com/sr_phpdeveloper" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:ajayshanker18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

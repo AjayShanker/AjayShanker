@@ -26,12 +26,12 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
 </div>
 <!-- most used end -->
 
-<br /><p>&nbsp;</p><br /><p>&nbsp;</p><br />
+<br /><p>&nbsp;</p><br />
 <div style="height: auto; width: 100%; display: block;"> 
 <br />
 <!-- most used start -->
 
- 🚀 Technologies and Tools 
+  ## 🚀 Technologies and Tools 
   
 <div align="center"> 
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
@@ -66,7 +66,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 </div>
 </div>
-<br /><p>&nbsp;</p><br /><p>&nbsp;</p><br />
+<br /><p>&nbsp;</p><br />
 
  ##  🛠️ Skills
 
@@ -80,7 +80,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
   <br />
 </div>
 
-<br /><p>&nbsp;</p><br /><p>&nbsp;</p><br />
+<br /><p>&nbsp;</p><br />
 
 ## 🔥 GitHub Stats
 
@@ -100,7 +100,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
       
  </a>
 </div>
-
+<br /><p>&nbsp;</p><br />
 
 <!-- stats end -->
   

@@ -4,11 +4,9 @@
 
 <br /> 
 <div style="height: auto; width: 100%; display: block;"> 
-I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. I have acquired the skill set to build modern-day applications that support industry standards and software design.
-
-Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
+I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. My technical proficiency in PHP, Laravel/CakePHP/Codeigniter Frameworks , JavaScript, VueJs, Angular, AWS, MongoDB, Express, Node.Js, React & React Native.
 <br />
-Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application development. My journey as a FullStack developer is fueled by curiosity, evident in my repos showcasing challenges faced and solutions implemented.I thrive on creating projects from scratch to deepen my understanding of the development process.
+Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 </div>
   <br />
 
@@ -24,16 +22,14 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
   
   
 </div>
-  <br /><p>&nbsp;</p  <br />
+  <br /><p>&nbsp;</p  <br />><br />
 
 
 <div style="height: auto; width: 100%; display: block;"> 
-
-<br /><p>&nbsp;</p><br />
- 🚀 Technologies and Tools 
+ ## 🚀 Technologies and Tools 
 
 <div style="height: auto; width: 100%; display: block;"> 
-<br />
+<br />><br />
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">

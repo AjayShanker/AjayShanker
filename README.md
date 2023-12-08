@@ -2,8 +2,12 @@
 
 # <img align="left" alt="Hi!" height="40" width="50" src="hand.gif"> Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=dd3219" alt="FullStack developer"></img>
 
+`
 
-I am a passionat and self-taught full stack developer with a keen interest in crafting clean, well-tested MEAN Stack code. Lifelong learner dedicated to mastering HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components for Restful interactions through REST API. Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application development. My journey as a FullStack developer is fueled by curiosity, evident in my repos showcasing challenges faced and solutions implemented. I thrive on creating projects from scratch to deepen my understanding of the development process.
+`
+I am a passionat and self-taught full stack developer with a keen interest in crafting clean, well-tested MEAN Stack code. Lifelong learner dedicated to mastering HTML, XHTML, CSS3, JavaScript, JQuery, Ajax, MySQL, MongoDB, React JS, Express.JS, Angular-JS, VUE JS, Node-JS, Socket.IO, NPM, Amazon Web Services, GIT, MVC, JSON, XML, Jira, and creating Web services components for Restful interactions through REST API. 
+Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application development. My journey as a FullStack developer is fueled by curiosity, evident in my repos showcasing challenges faced and solutions implemented.
+I thrive on creating projects from scratch to deepen my understanding of the development process.
 ##
 
 

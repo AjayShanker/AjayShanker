@@ -66,11 +66,12 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 </div>
 </div>
-<br />
- 🛠️ Skills
+<br /><p>&nbsp;</p><br /><p>&nbsp;</p><br />
 
-<!-- icons start -->
-<div align="center">
+ ##  🛠️ Skills
+
+<div style="height: auto; width: 100%; display: block;"> 
+<br />
   
   <img align="center" alt="AjayShanker-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;<img align="center" alt="AjayShanker-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-jQuery" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-vuejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Wordpres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Woocommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-VScode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;&nbsp;<img align="center" alt="AjayShanker-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
@@ -79,7 +80,7 @@ Proficient in using Laravel/CakePHP/Codeigniter Frameworks for web application d
   <br />
 </div>
 
-<!-- icons end -->
+<br /><p>&nbsp;</p><br /><p>&nbsp;</p><br />
 
 ## 🔥 GitHub Stats
 

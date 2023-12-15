@@ -8,12 +8,12 @@ I am a passionat developer with more than 5 years of experience building diverse
 <br />
 
 </div>
-<br /><br />
 Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 
 <br /><p>&nbsp;</p><br />
 <!-- most used start -->
 <div style="height: auto; width: 100%; display: block;"> 
+ <div align="center">
  <picture style="width:38%;">
  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css">
  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayShanker&layout=compact&theme=dracula&langs_count=8&show_icons=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&hide=css">
@@ -25,9 +25,10 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
   <source media="(prefers-color-scheme: light)" srcset="ajay_shanker.gif">
   <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img height="180em" alt="Knowledge is power" align="right"  src="ajay_shanker.gif"/></a>
 </picture>
-<br /><p>&nbsp;</p><br /><br /><p>&nbsp;</p><br />
 </div>
 <br /><p>&nbsp;</p><br />
+</div>
+<br /><p>&nbsp;</p><br /><br /><p>&nbsp;</p><br />
 
  ## 🚀 Technologies and Tools 
 <div style="height: auto; width: 100%; display: block;"> 

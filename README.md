@@ -92,7 +92,9 @@ __
 
   <div style="height: auto; width: 100%; display: block;" align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=AjayShanker&amp;column=4&amp;row=2&amp;margin-w=20&amp;margin-h=10" style="max-width: 100%;">
-   <br> </div>
+   <br>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayShanker&amp;theme=monokai" style="max-width: 100%;">
+  </div>
   
 <div>
   <a href="https://github.com/AjayShanker" align="center">
@@ -100,13 +102,6 @@ __
    <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=AjayShanker&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="AjayShanker" />
    
    <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide=reviews,issues,stars&hide_border=true" alt="AjayShanker"/>
-
-<br>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayShanker&amp;theme=monokai" style="max-width: 100%;">
-
-  
-   
-  
       
  </a>
 </div>

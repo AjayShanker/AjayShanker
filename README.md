@@ -1,5 +1,3 @@
-
-
 # <img align="left" alt="Hi!" height="40" width="50" src="hand.gif"> Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=dd3219" alt="FullStack developer"></img>
 
 <br>
@@ -10,7 +8,7 @@ I am a passionat developer with more than 5 years of experience building diverse
 </div>
 Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 
-<br /><p>&nbsp;</p><br />
+<br />
 <!-- most used start -->
 <div style="height: auto; width: 100%; display: block;"> 
  <div align="center">
@@ -26,9 +24,9 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
   <a href="https://in.linkedin.com/in/seniorphpprogrammer/" target="_blank"><img height="180em" alt="Knowledge is power" align="right"  src="ajay_shanker.gif"/></a>
 </picture>
 </div>
-<br /><p>&nbsp;</p><br />
+<br />
 </div>
-<br><p>&nbsp;</p><br>
+<br>
 __
 <br><p>&nbsp;</p><br>
 
@@ -70,7 +68,7 @@ __
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 
 </div>
-<br><p>&nbsp;</p><br>
+<br>
 
  ##  🛠️ Skills
 
@@ -83,7 +81,7 @@ __
 
 </div>
 
-<br><p>&nbsp;</p><br>
+<br>
 
 ## 🔥 GitHub Stats
 

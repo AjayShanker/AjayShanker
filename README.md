@@ -31,6 +31,8 @@ __
 <br><p>&nbsp;</p><br>
 
  ## 🚀 Technologies and Tools 
+
+ <br>
 <div style="height: auto; width: 100%; display: block;"> 
 
 

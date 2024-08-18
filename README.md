@@ -2,10 +2,10 @@
 
 # <img align="left" alt="Hi!" height="40" width="50" src="hand.gif"> Hello! I'm Ajay Shanker :-) <img align="right" src="https://komarev.com/ghpvc/?username=AjayShanker&color=dd3219" alt="FullStack developer"></img>
 
-<br /> 
+<br>
 <div style="height: auto; width: 100%; display: block;"> 
 I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. My technical proficiency in PHP, Laravel/CakePHP/Codeigniter Frameworks , JavaScript, VueJs, Angular, AWS, MongoDB, Express, Node.Js, React & React Native.
-<br />
+<br>
 
 </div>
 Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
@@ -28,9 +28,9 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 </div>
 <br /><p>&nbsp;</p><br />
 </div>
-<br /><p>&nbsp;</p><br />
+<br><p>&nbsp;</p><br>
 __
-<br /><p>&nbsp;</p><br />
+<br><p>&nbsp;</p><br>
 
  ## 🚀 Technologies and Tools 
 <div style="height: auto; width: 100%; display: block;"> 
@@ -70,7 +70,7 @@ __
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Platform-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a">
 
 </div>
-<br /><p>&nbsp;</p><br />
+<br><p>&nbsp;</p><br>
 
  ##  🛠️ Skills
 
@@ -83,7 +83,7 @@ __
 
 </div>
 
-<br /><p>&nbsp;</p><br />
+<br><p>&nbsp;</p><br>
 
 ## 🔥 GitHub Stats
 
@@ -103,11 +103,11 @@ __
       
  </a>
 </div>
-<br /><p>&nbsp;</p><br />
+<br><p>&nbsp;</p><br>
 
 <!-- stats end -->
   
-  ##
+  ## 🤝 Connect with me
  
  <!-- social start -->
 <div align="center"><br />

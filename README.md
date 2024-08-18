@@ -97,7 +97,7 @@ __
    
    <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=AjayShanker&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="AjayShanker" />
    
-   <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="AjayShanker"/>
+   <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide=reviews&hide_border=true" alt="AjayShanker"/>
    
   
       

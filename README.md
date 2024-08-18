@@ -101,6 +101,9 @@ __
    
    <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayShanker&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide=reviews,issues,stars&hide_border=true" alt="AjayShanker"/>
 
+<br>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayShanker&amp;theme=monokai" style="max-width: 100%;">
+
   
    
   

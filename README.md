@@ -28,11 +28,10 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 </div>
 <br>
 __
-<br><p>&nbsp;</p><br>
+<p>&nbsp;</p><br>
 
- ## 🚀 Technologies and Tools 
+ ## 🚀 Technologies & Tools 
 
- <br>
 <div style="height: auto; width: 100%; display: block;"> 
 
 

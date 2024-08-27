@@ -33,7 +33,7 @@ __
 # 🚀 Technologies & Tools
  <br>
 <div style="height: auto; width: 100%; display: block;"> 
-- **⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code> **  
+- ⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code> 
 
 
 

@@ -30,7 +30,6 @@ I also have efficient working knowledge of Agile methodology and am proficient w
 __
 <br><br><p>&nbsp;</p><br><br>
 ## 🚀**Full-Stack Development**
-<br><br>
 <div style="height: auto; width: 100%; display: block;"> 
 - ⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code> 
 <br>

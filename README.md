@@ -2,11 +2,11 @@
 
 <br>
 <div style="height: auto; width: 100%; display: block;"> 
-I am a passionat developer with more than 5 years of experience building diverse, scalable, innovative, and problem-solving software. My technical proficiency in PHP, Laravel/CakePHP/Codeigniter Frameworks , JavaScript, VueJs, Angular, AWS, MongoDB, Express, Node.Js, React & React Native.
+I am a passionate developer with over 7 years of experience in building diverse, scalable, and innovative software solutions. My technical expertise includes PHP, Laravel, CakePHP, CodeIgniter, JavaScript, Vue.js, Angular, AWS, MongoDB, Express, Node.js, React, and React Native.
 <br>
+I also have efficient working knowledge of Agile methodology and am proficient with tools such as Jira, Git, and SVN.
 
 </div>
-Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 
 <br />
 <!-- most used start -->
@@ -29,9 +29,9 @@ Efficient working knowledge in Agile methodology with tools like Jira, Git, SVN.
 
 __
 <br><p>&nbsp;</p><br>
-
-# 🚀 Technologies & Tools
- <br>
+<div style="height: auto; width: 100%; display: block;"> 
+## 🚀 Technologies & Tools
+ </div>
 <div style="height: auto; width: 100%; display: block;"> 
 - ⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code> 
 

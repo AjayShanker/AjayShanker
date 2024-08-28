@@ -28,12 +28,12 @@ I also have efficient working knowledge of Agile methodology and am proficient w
 </div>
 
 __
-<br><p>&nbsp;</p><br>
+<br><br><p>&nbsp;</p><br><br>
 ## 🚀**Full-Stack Development**
-<br><p>&nbsp;</p><br>
+<br><br>
 <div style="height: auto; width: 100%; display: block;"> 
 - ⚡ <code>LOVE TO WORK WITH THESE TECHNOLOGIES:</code> 
-<br><br />
+<br>
      <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a">
     <img align="center" alt="technology" height="20" width="121" src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">

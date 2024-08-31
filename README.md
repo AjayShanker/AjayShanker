@@ -108,9 +108,10 @@ __
  
  <!-- social start -->
 <div align="center"><br />
- <a href="https://twitter.com/sr_phpdeveloper" target="_blank">
+<a href="https://twitter.com/sr_phpdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+
 
   <a href="https://twitter.com/sr_phpdeveloper" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:ajayshanker18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
